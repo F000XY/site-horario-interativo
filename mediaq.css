@@ -1,0 +1,21 @@
+@charset "UTF-8";
+ /* TYPICAL DEVICE BREAKPOINTS 
+ ------------------------------
+ Pequenas telas: até 600px
+ celular: 600 - 768px
+ tablet: 768 - 992px
+ desktop: 992 - 1200px
+ grandes telas: 1200px
+ (pesquisar para ver se essas referencias nao mudaram)
+ */
+
+@media screen and (min-width: 768px) {
+
+}
+section{
+    max-width: 768px;
+    width: 70%;
+
+    
+
+}
